@@ -1,0 +1,13 @@
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Income Comparison Assignment\Income Comparison Assignment\bin\Debug\netcoreapp3.1\Income Comparison Assignment.exe
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Income Comparison Assignment\Income Comparison Assignment\bin\Debug\netcoreapp3.1\Income Comparison Assignment.deps.json
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Income Comparison Assignment\Income Comparison Assignment\bin\Debug\netcoreapp3.1\Income Comparison Assignment.runtimeconfig.json
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Income Comparison Assignment\Income Comparison Assignment\bin\Debug\netcoreapp3.1\Income Comparison Assignment.runtimeconfig.dev.json
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Income Comparison Assignment\Income Comparison Assignment\bin\Debug\netcoreapp3.1\Income Comparison Assignment.dll
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Income Comparison Assignment\Income Comparison Assignment\bin\Debug\netcoreapp3.1\Income Comparison Assignment.pdb
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Income Comparison Assignment\Income Comparison Assignment\obj\Debug\netcoreapp3.1\Income Comparison Assignment.csprojAssemblyReference.cache
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Income Comparison Assignment\Income Comparison Assignment\obj\Debug\netcoreapp3.1\Income Comparison Assignment.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Income Comparison Assignment\Income Comparison Assignment\obj\Debug\netcoreapp3.1\Income Comparison Assignment.AssemblyInfo.cs
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Income Comparison Assignment\Income Comparison Assignment\obj\Debug\netcoreapp3.1\Income Comparison Assignment.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Income Comparison Assignment\Income Comparison Assignment\obj\Debug\netcoreapp3.1\Income Comparison Assignment.dll
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Income Comparison Assignment\Income Comparison Assignment\obj\Debug\netcoreapp3.1\Income Comparison Assignment.pdb
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Income Comparison Assignment\Income Comparison Assignment\obj\Debug\netcoreapp3.1\Income Comparison Assignment.genruntimeconfig.cache
